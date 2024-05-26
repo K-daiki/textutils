@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: TextUtils
+Version: 0.1.0
+Summary: A package for text processing utilities
+Home-page: https://github.com/K-daiki/textutils.git
+Author: DAIKI KANAYMA
+Author-email: s2222065@stu.musashino-u.ac.jp
+License: MIT
+License-File: LICENSE
+Requires-Dist: mecab-python3==1.0.4

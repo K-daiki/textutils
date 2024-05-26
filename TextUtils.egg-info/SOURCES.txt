@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+TextUtils.egg-info/PKG-INFO
+TextUtils.egg-info/SOURCES.txt
+TextUtils.egg-info/dependency_links.txt
+TextUtils.egg-info/requires.txt
+TextUtils.egg-info/top_level.txt
+tests/test_counter.py
+tests/test_morphological_analysis.py
+tests/test_tokenizer.py
+textutils/__init__.py
+textutils/counter.py
+textutils/morphological_analysis.py
+textutils/tokenizer.py
